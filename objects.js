@@ -4,7 +4,7 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artist] = song
+  playlist[Migos] = 'Bad and boojie'
   return playlist
 };
 
